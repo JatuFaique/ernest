@@ -1,0 +1,9 @@
+.dashboard{
+    display: flex;
+    background-color: white;
+    border-radius: 30px;
+    max-width: 1132px;
+    margin: 20px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
